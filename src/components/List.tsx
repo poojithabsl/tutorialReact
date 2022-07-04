@@ -6,7 +6,7 @@ interface Props {
     description?: string
   }>
 }
-
+// Poojitha function for lists
 
 export default function List({subs}: Props){
     return(
